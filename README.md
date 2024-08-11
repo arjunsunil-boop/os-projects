@@ -1,6 +1,6 @@
 # OS Projects
 
-This repository contains various projects related to Operating Systems. Each project focuses on a specific algorithm or concept used in OS design and implementation.
+This repository contains various projects related to Operating Systems. Each project focuses on a specific algorithm or concept used in OS design and implementation. These projects were created to help students understand and implement key OS concepts easily using array ds.
 
 ## Projects
 
