@@ -41,7 +41,7 @@ void main() {
                 }
             }
             if (!emptyFrame) {
-                if (i >= f) {
+                
                     least = 0;
                     for (j = 1; j < f; j++) {
                         if (recent[j] < recent[least]) {
@@ -50,7 +50,7 @@ void main() {
                     }
                     frame[least] = page[i];
                     recent[least] = i + 1;
-                }
+                
             }
             pf++;  
         }
